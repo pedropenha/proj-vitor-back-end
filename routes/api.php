@@ -15,3 +15,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::apiResource('remetente', 'api/RemetenteController');
+Route::apiResource('destinatario', 'api/DestinatarioController');
